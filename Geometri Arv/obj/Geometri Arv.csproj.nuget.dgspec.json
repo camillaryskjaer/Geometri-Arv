@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jesp446c\\source\\repos\\Geometri Arv\\Geometri Arv\\Geometri Arv.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jesp446c\\source\\repos\\Geometri Arv\\Geometri Arv\\Geometri Arv.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jesp446c\\source\\repos\\Geometri Arv\\Geometri Arv\\Geometri Arv.csproj",
+        "projectName": "Geometri Arv",
+        "projectPath": "C:\\Users\\jesp446c\\source\\repos\\Geometri Arv\\Geometri Arv\\Geometri Arv.csproj",
+        "packagesPath": "C:\\Users\\jesp446c\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jesp446c\\source\\repos\\Geometri Arv\\Geometri Arv\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jesp446c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/oxyplot": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
