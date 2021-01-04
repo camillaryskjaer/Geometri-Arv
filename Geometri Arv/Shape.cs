@@ -8,7 +8,7 @@ namespace Geometri_Arv
     {
 
 		
-
+Det er farligt at antage at alle shapes har sider...., det har en cirkel f.eks. ikke og du må derfor ikke have disse attributter med i shape
 		private double siteb;
 
 		public double SiteB
