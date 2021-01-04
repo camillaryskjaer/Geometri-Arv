@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
+Hvorfor arves der ikke fra Shape?
 namespace Geometri_Arv
 {
     public class Square
